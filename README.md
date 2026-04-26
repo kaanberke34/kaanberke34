@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building custom **Software Solutions** and working on my platform **[biartibieksi.com](https://biartibieksi.com)**.
+- 🔭 I’m currently building custom **Software Solutions** and working on my platform **[kaanberkeyilmaz.com](https://kaanberkeyilmaz.com)**.
 - 🌱 Continuously exploring modern **Web Platforms**, **Mobile App Development**, and robust **API Architectures**.
 - 💡 Passionate about blending code with great **UI/UX Design** and optimizing for **SEO** & **Digital Marketing**.
 - 💬 Ask me about **Frontend (React, Next.js), Mobile (Flutter), Backend (Node.js, PHP)**, and **Database Management**.
